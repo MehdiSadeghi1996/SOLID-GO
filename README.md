@@ -1,4 +1,4 @@
-# SOLID-GO
+# SOLID In GO
 
 Single-Responsibility Principle
 
